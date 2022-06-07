@@ -10,6 +10,13 @@ meetup-group:
 Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
 Suivez l'actualité du chapitre sur :
 
+
+## Appel à conférenciers
+
+L'appel à conférenciers est ouvert. Si vous souhaitez présenter une conférence sur la sécurité des applications lors des futurs événements du chapitre suisse de l'OWASP - veuillez lire et accepter l'[accord de conférencier OWASP](/www-policy/legal/speaker-agreement) et envoyer le titre de la conférence proposée, le résumé, et la biographie des conférenciers aux [Chapter Leaders] (leaders.md) par e-mail.
+
+## Upcoming events
+
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 

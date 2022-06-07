@@ -9,8 +9,8 @@ meetup-group:
 ## Bienvenu
 Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
 Suivez l'actualité du chapitre sur :
-[![Meetup](/www-chapter-dakar/assets/images/meetup.png)](https://www.meetup.com/xxxx/)
-[![Twitter](/www-chapter-dakar/assets/images/twitter.png)](https://twitter.com/owasp_sn)
+[![Meetup](/assets/images/meetup.png)](https://www.meetup.com/xxxx/)
+[![Twitter](/assets/images/twitter.png)](https://twitter.com/owasp_sn)
 
 ## Appel à conférenciers
 

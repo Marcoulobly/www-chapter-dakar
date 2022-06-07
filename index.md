@@ -6,16 +6,14 @@ tags: example-tag
 region: Africa
 meetup-group:
 
-## Welcome
+## Bienvenu
 Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
 Suivez l'actualité du chapitre sur :
 
-
 ## Appel à conférenciers
 
-L'appel à conférenciers est ouvert. Si vous souhaitez présenter une conférence sur la sécurité des applications lors des futurs événements du chapitre suisse de l'OWASP - veuillez lire et accepter l'[accord de conférencier OWASP](/www-policy/legal/speaker-agreement) et envoyer le titre de la conférence proposée, le résumé, et la biographie des conférenciers aux [Chapter Leaders] (leaders.md) par e-mail.
-
-## Upcoming events
+L'appel à conférenciers est ouvert. Si vous souhaitez présenter une conférence sur la sécurité des applications lors des futurs événements du chapitre Sénégalais de l'OWASP - veuillez lire et accepter l'[accord de conférencier OWASP](/www-policy/legal/speaker-agreement) et envoyer le titre de la conférence proposée, le résumé, et la biographie des conférenciers aux [Chapter Leaders] (leaders.md) par e-mail.
+## Evenements à venir
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
@@ -47,7 +45,8 @@ Please change these items to indicate the actual information you wish to present
 Replace the text above the commented area with your information in the format below:
 ```
 ## Welcome
-Include some information here about your chapter
+Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
+Suivez l'actualité du chapitre sur :
 
 ## Participation
 The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 

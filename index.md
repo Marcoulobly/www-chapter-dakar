@@ -7,8 +7,7 @@ region: Africa
 meetup-group:
 
 ## Welcome
-Bienvenue sur la page d'accueil du chapitre suisse.
-
+Bienvenue sur la page d'accueil du chapitre Sénégalais  de L'OWASP.
 Suivez l'actualité du chapitre sur :
 
 ## Participation
